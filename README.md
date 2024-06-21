@@ -1,0 +1,1 @@
+# QDA-Net-Quantization-based-3D-CNN-through-Gradual-Unfreezing-for-DeepFake-detection
