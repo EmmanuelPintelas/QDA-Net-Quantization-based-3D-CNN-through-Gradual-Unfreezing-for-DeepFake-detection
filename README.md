@@ -6,11 +6,15 @@
   followed by an analytical description.
 
 - To run the framework:
+  
         1) download our curated DFDC video dataset mentioned in the above link
+  
         2) put it in the same folder with the QDA_Net script
+  
         3) and then simply execute the QDA_Net script (the script has a suitable data loading function for this dataset format, making it simple the technical execution task)
 
 
 
 ![Εικόνα1](https://github.com/EmmanuelPintelas/QDA-Net-Quantization-based-3D-CNN-through-Gradual-Unfreezing-for-DeepFake-detection/assets/68348589/98e6ae2d-142c-4b76-8ff2-223ac90b4c75)
-![Gradual-Unfreezing(1)](https://github.com/EmmanuelPintelas/QDA-Net-Quantization-based-3D-CNN-through-Gradual-Unfreezing-for-DeepFake-detection/assets/68348589/c37eae80-8811-49e2-ae5e-89d10d703047)
+![Circular-Gradual-Unfreezing](https://github.com/EmmanuelPintelas/QDA-Net-Quantization-based-3D-CNN-through-Gradual-Unfreezing-for-DeepFake-detection/assets/68348589/909038a0-3db9-4121-bb79-94b18011d013)
+
